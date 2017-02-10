@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Feeds Updater", "Feeds Updater\Feeds Updater.csproj", "{891D2417-5999-474B-BE1E-D090C91D32A9}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "FeedUpdaterSetup", "FeedUpdaterSetup\FeedUpdaterSetup.vdproj", "{A3A7AF90-B844-4963-89A9-37A4C205AC3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{891D2417-5999-474B-BE1E-D090C91D32A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{891D2417-5999-474B-BE1E-D090C91D32A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{891D2417-5999-474B-BE1E-D090C91D32A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{891D2417-5999-474B-BE1E-D090C91D32A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3A7AF90-B844-4963-89A9-37A4C205AC3E}.Debug|Any CPU.ActiveCfg = Debug
+		{A3A7AF90-B844-4963-89A9-37A4C205AC3E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
